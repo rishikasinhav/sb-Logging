@@ -9,7 +9,8 @@ public class Application {
 	public static void main(String[] args) {
 		SpringApplication.run(Application.class, args);
 		int a=i;
-		in tj=20;
+		int j=20;
+		int k=50;
 	}
 
 }
