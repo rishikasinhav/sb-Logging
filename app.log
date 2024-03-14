@@ -1,0 +1,43 @@
+2024-03-05T16:37:14.058+05:30 error 19220 --- [restartedMain] com.app.demo.Application                 : Starting Application using Java 17.0.8.1 with PID 19220 (D:\sts-workspace\01-Sb-logging-app-2\target\classes started by deepa in D:\sts-workspace\01-Sb-logging-app-2)
+2024-03-05T16:37:14.062+05:30 error 19220 --- [restartedMain] com.app.demo.Application                 : No active profile set, falling back to 1 default profile: "default"
+2024-03-05T16:37:14.123+05:30 error 19220 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-03-05T16:37:14.124+05:30 error 19220 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-03-05T16:37:14.869+05:30 error 19220 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8082 (http)
+2024-03-05T16:37:14.882+05:30 error 19220 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-03-05T16:37:14.882+05:30 error 19220 --- [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.19]
+2024-03-05T16:37:14.923+05:30 error 19220 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-03-05T16:37:14.924+05:30 error 19220 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 799 ms
+2024-03-05T16:37:15.200+05:30 error 19220 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2024-03-05T16:37:15.254+05:30 error 19220 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8082 (http) with context path ''
+2024-03-05T16:37:15.263+05:30 error 19220 --- [restartedMain] com.app.demo.Application                 : Started Application in 1.542 seconds (process running for 2.217)
+2024-03-05T16:37:36.570+05:30 error 19220 --- [http-nio-8082-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-03-05T16:37:36.570+05:30 error 19220 --- [http-nio-8082-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-03-05T16:37:36.570+05:30 error 19220 --- [http-nio-8082-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 0 ms
+2024-03-05T16:37:45.530+05:30 error 19220 --- [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 3 class path changes (0 additions, 0 deletions, 3 modifications)
+2024-03-05T16:37:45.680+05:30 error 19220 --- [restartedMain] com.app.demo.Application                 : Starting Application using Java 17.0.8.1 with PID 19220 (D:\sts-workspace\01-Sb-logging-app-2\target\classes started by deepa in D:\sts-workspace\01-Sb-logging-app-2)
+2024-03-05T16:37:45.680+05:30 error 19220 --- [restartedMain] com.app.demo.Application                 : No active profile set, falling back to 1 default profile: "default"
+2024-03-05T16:37:45.978+05:30 error 19220 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8082 (http)
+2024-03-05T16:37:45.989+05:30 error 19220 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-03-05T16:37:45.989+05:30 error 19220 --- [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.19]
+2024-03-05T16:37:46.005+05:30 error 19220 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-03-05T16:37:46.005+05:30 error 19220 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 324 ms
+2024-03-05T16:37:46.132+05:30 error 19220 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2024-03-05T16:37:46.148+05:30 error 19220 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8082 (http) with context path ''
+2024-03-05T16:37:46.171+05:30 error 19220 --- [restartedMain] com.app.demo.Application                 : Started Application in 0.526 seconds (process running for 33.127)
+2024-03-05T16:37:46.177+05:30 error 19220 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2024-03-05T16:38:37.316+05:30 error 19220 --- [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2024-03-05T16:38:37.376+05:30 error 19220 --- [restartedMain] com.app.demo.Application                 : Starting Application using Java 17.0.8.1 with PID 19220 (D:\sts-workspace\01-Sb-logging-app-2\target\classes started by deepa in D:\sts-workspace\01-Sb-logging-app-2)
+2024-03-05T16:38:37.376+05:30 error 19220 --- [restartedMain] com.app.demo.Application                 : No active profile set, falling back to 1 default profile: "default"
+2024-03-05T16:38:37.468+05:30 error 19220 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8082 (http)
+2024-03-05T16:38:37.469+05:30 error 19220 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-03-05T16:38:37.470+05:30 error 19220 --- [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.19]
+2024-03-05T16:38:37.482+05:30 error 19220 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-03-05T16:38:37.483+05:30 error 19220 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 105 ms
+2024-03-05T16:38:37.549+05:30 error 19220 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2024-03-05T16:38:37.557+05:30 error 19220 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8082 (http) with context path ''
+2024-03-05T16:38:37.563+05:30 error 19220 --- [restartedMain] com.app.demo.Application                 : Started Application in 0.202 seconds (process running for 84.518)
+2024-03-05T16:38:37.568+05:30 error 19220 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2024-03-05T16:38:42.658+05:30 error 19220 --- [http-nio-8082-exec-2] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-03-05T16:38:42.659+05:30 error 19220 --- [http-nio-8082-exec-2] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-03-05T16:38:42.660+05:30 error 19220 --- [http-nio-8082-exec-2] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2024-03-05T16:41:43.198+05:30 error 19220 --- [RMI TCP Connection(21)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
